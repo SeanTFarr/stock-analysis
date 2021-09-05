@@ -15,7 +15,7 @@ With the original code, the run times were 0.6484375 seconds for 2017 and 0.6640
 <img width="294" alt="Run time for 2018" src="https://user-images.githubusercontent.com/88861780/132142041-a7819f15-c4c2-45e5-b49c-b2e1035106db.png">
 
 
-After the code was refactered, the run times were lower at 0.09375 seconds for 2017 (0.5546875 seconds faster) and 0.09375 seconds for 2018 (0.5703125 seconds faster). Whereas it seems a small difference, we must keep in mind this is a small dataset. With a larger dataset, the run time difference would show a greater significance.
+After the code was refactored, the run times were lower at 0.09375 seconds for 2017 (0.5546875 seconds faster) and 0.09375 seconds for 2018 (0.5703125 seconds faster). Whereas it seems a small difference, we must keep in mind this is a small dataset. With a larger dataset, the run time difference would show a greater significance.
 
 <img width="292" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/88861780/132141988-81414b2f-e9be-411a-9efb-688ded849948.png">
 
