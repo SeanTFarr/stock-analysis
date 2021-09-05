@@ -1,7 +1,7 @@
 # VBA Challenge
 
 ## Overview of Project
-After analyzing green energy stock data for Steve to consider diversifying, he appreciated the workbook prepared for him. He now wants to explore the entire stock market. Noticing that there were only a few stocks involved with our code, the realization that it may not be fast enough for running additional, perhaps thousands, stocks became apparent. In refactoring the code, we should be able to improve it, which would make a quicker run through a larger dataset. 
+After analyzing green energy stock data for Steve to consider diversifying, he appreciated the workbook prepared for him. He now wants to explore the entire stock market. Noticing that there were only a few stocks involved with our code, the realization that it may not be fast enough for running additional stocks, perhaps thousands, became apparent. In refactoring the code, we should be able to improve it, which would make a quicker run through a larger dataset. 
 
 ## Results.
 
